@@ -1,4 +1,4 @@
-# Alura-Play
+# Alura Play
 
 Projeto em CSS para treinamento de layout responsivo para mobile, tablet e desktop
 
